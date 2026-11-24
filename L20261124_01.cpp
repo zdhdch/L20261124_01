@@ -8,6 +8,7 @@ int main()
 	
 	cout << "안녕하세요!" << std::endl;
 	cout << "Come on!" << std::endl;
+	cout << "알겠습니다!" << std::endl;
 
 	return 0;
 }
