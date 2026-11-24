@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
+	system("cls")
+
 	std::cout << "Hello World!" << std::endl;
-	
+
 	cout << "안녕하세요!" << std::endl;
 	cout << "Come on!" << std::endl;
 	cout << "알겠습니다!" << std::endl;
