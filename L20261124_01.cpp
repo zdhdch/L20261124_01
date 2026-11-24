@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	system("cls")
+	system("cls");
 
 	std::cout << "Hello World!" << std::endl;
 
